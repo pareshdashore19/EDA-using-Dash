@@ -36,7 +36,7 @@ layout = html.Div([
             dbc.Col(dbc.Card(children=[html.H3(children='Read the README file to understand Dashboard in Detail',
                                                className="text-center"),
                                        dbc.Button("GitHub",
-                                                  href="https://git.syngentaaws.org/Paresh.Dashore/eda-using-dash/-/tree/master",
+                                                  href="https://github.com/pareshdashore19/EDA-using-Dash",
                                                   color="primary",
                                                   className="mt-3",
                                                   target='-blank'),
